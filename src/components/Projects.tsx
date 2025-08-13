@@ -4,21 +4,21 @@ import { ExternalLink, Github, Zap } from 'lucide-react';
 export const Projects: React.FC = () => {
   const projects = [
     {
-      title: 'AI-Powered Task Manager',
+      title: 'Blogverse',
       description: 'A smart task management application that uses machine learning to predict task completion times and suggest optimal scheduling.',
       image: 'https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&w=800',
-      technologies: ['React', 'Python', 'TensorFlow', 'PostgreSQL', 'FastAPI'],
-      githubUrl: 'https://github.com/yourusername/ai-task-manager',
-      liveUrl: 'https://ai-task-manager.vercel.app',
+      technologies: ['React', 'Javascript', 'MongoDB', 'NodeJs', 'FastAPI','Tailwind CSS'],
+      githubUrl: 'https://github.com/Chayan-03/BlogVerse',
+      liveUrl: 'https://blogverse-eight.vercel.app/',
       featured: true
     },
     {
-      title: 'Real-time Chat Application',
-      description: 'A full-stack chat application with real-time messaging, file sharing, and AI-powered message translation.',
+      title: 'BrrGrr',
+      description: 'Frontend of a custom Burger ordering website made using React , Tailwind, Framer Motion, and ShadCn.',
       image: 'https://images.pexels.com/photos/1591062/pexels-photo-1591062.jpeg?auto=compress&cs=tinysrgb&w=800',
       technologies: ['React', 'Node.js', 'Socket.io', 'MongoDB', 'OpenAI API'],
-      githubUrl: 'https://github.com/yourusername/realtime-chat',
-      liveUrl: 'https://realtime-chat.netlify.app'
+      githubUrl: 'https://github.com/Chayan-03/BrrrGrrr',
+      liveUrl: 'https://brrrgrrr-taupe.vercel.app/'
     },
     {
       title: 'E-commerce Analytics Dashboard',
@@ -112,7 +112,7 @@ export const Projects: React.FC = () => {
 
         <div className="text-center mt-12">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Chayan-03"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-8 py-3 bg-gray-900/80 backdrop-blur-sm border border-gray-800 hover:border-cyan-500 rounded-lg transition-all duration-300 hover:shadow-lg"

@@ -42,10 +42,10 @@ export const Contact: React.FC = () => {
               <div className="flex items-center">
                 <Mail className="text-cyan-400 mr-4" size={20} />
                 <a 
-                  href="mailto:your.email@example.com"
+                  href="mailto:chayankhetan36@gmail.com"
                   className="text-gray-300 hover:text-cyan-400 transition-colors duration-300"
                 >
-                  your.email@example.com
+                  chayankhetan36@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
@@ -56,7 +56,7 @@ export const Contact: React.FC = () => {
 
             <div className="flex space-x-4">
               <a
-                href="https://github.com"
+                href="https://www.github.com/Chayan-03"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-900 hover:bg-gray-800 rounded-lg transition-colors duration-300"
@@ -64,7 +64,7 @@ export const Contact: React.FC = () => {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/chayan-khetan-1b9b71222/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-900 hover:bg-gray-800 rounded-lg transition-colors duration-300"
@@ -72,7 +72,7 @@ export const Contact: React.FC = () => {
                 <Linkedin size={20} />
               </a>
               <a
-                href="https://twitter.com"
+                href="https://x.com/ChayanKhetan"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 bg-gray-900 hover:bg-gray-800 rounded-lg transition-colors duration-300"

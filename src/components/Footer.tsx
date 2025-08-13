@@ -17,7 +17,7 @@ export const Footer: React.FC = () => {
 
           <div className="flex items-center space-x-6 mb-6 md:mb-0">
             <a
-              href="https://github.com"
+              href="https://github.com/Chayan-03"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transition-colors duration-300"
@@ -25,7 +25,7 @@ export const Footer: React.FC = () => {
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/chayan-khetan-1b9b71222/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transition-colors duration-300"
@@ -33,7 +33,7 @@ export const Footer: React.FC = () => {
               <Linkedin size={20} />
             </a>
             <a
-              href="https://twitter.com"
+              href="https://x.com/ChayanKhetan"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-cyan-400 transition-colors duration-300"
@@ -41,7 +41,7 @@ export const Footer: React.FC = () => {
               <Twitter size={20} />
             </a>
             <a
-              href="mailto:your.email@example.com"
+              href="mailto:chayankhetan36@gmail.com"
               className="text-gray-400 hover:text-cyan-400 transition-colors duration-300"
             >
               <Mail size={20} />

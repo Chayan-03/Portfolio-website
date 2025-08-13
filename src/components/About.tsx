@@ -26,7 +26,7 @@ export const About: React.FC = () => {
   ];
 
   return (
-    <section id="about" className="py-20 px-6">
+    <section id="about" className="py-10 px-6">
       <div className="container mx-auto">
         <h2 className="text-4xl md:text-5xl font-bold text-center mb-16 bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
           About Me
@@ -58,7 +58,7 @@ export const About: React.FC = () => {
           <div className="inline-flex flex-wrap justify-center gap-3">
             {[
               'JavaScript', 'TypeScript', 'React', 'Node.js', 'Python', 'PostgreSQL',
-              'MongoDB', 'AWS', 'Docker', 'TensorFlow', 'PyTorch', 'OpenAI API'
+              'MongoDB', 'AWS', 'Docker', 'PostgreSQL', 'Agentic AI', 'Computer Vision'
             ].map((tech) => (
               <span
                 key={tech}

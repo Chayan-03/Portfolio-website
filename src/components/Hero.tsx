@@ -25,10 +25,10 @@ export const Hero: React.FC = () => {
         </div>
 
         <div className="flex justify-center space-x-6 mb-12">
-          <SocialLink href="https://github.com" icon={<Github size={24} />} />
-          <SocialLink href="https://linkedin.com" icon={<Linkedin size={24} />} />
-          <SocialLink href="https://twitter.com" icon={<Twitter size={24} />} />
-          <SocialLink href="mailto:your.email@example.com" icon={<Mail size={24} />} />
+          <SocialLink href="https://www.github.com/Chayan-03" icon={<Github size={24} />} />
+          <SocialLink href="https://www.linkedin.com/in/chayan-khetan-1b9b71222/" icon={<Linkedin size={24} />} />
+          <SocialLink href="https://x.com/ChayanKhetan" icon={<Twitter size={24} />} />
+          <SocialLink href="mailto:chayankhetan36@gmail.com" icon={<Mail size={24} />} />
         </div>
 
         <button
