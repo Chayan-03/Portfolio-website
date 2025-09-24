@@ -42,10 +42,10 @@ export const Contact: React.FC = () => {
               <div className="flex items-center">
                 <Mail className="text-cyan-400 mr-4" size={20} />
                 <a 
-                  href="mailto:chayankhetan36@gmail.com"
+                  href="mailto:chayankhetan1@gmail.com"
                   className="text-gray-300 hover:text-cyan-400 transition-colors duration-300"
                 >
-                  chayankhetan36@gmail.com
+                  chayankhetan1@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
