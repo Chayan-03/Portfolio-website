@@ -16,7 +16,7 @@ export const Hero: React.FC = () => {
       <div className="container mx-auto px-6 text-center z-10">
         <div className="mb-8">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 bg-clip-text text-transparent animate-fade-in">
-            Full Stack Developer
+            Full Stack/Software Developer
           </h1>
           <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
             Passionate about building innovative solutions with cutting-edge technologies, 
@@ -28,7 +28,7 @@ export const Hero: React.FC = () => {
           <SocialLink href="https://www.github.com/Chayan-03" icon={<Github size={24} />} />
           <SocialLink href="https://www.linkedin.com/in/chayan-khetan-1b9b71222/" icon={<Linkedin size={24} />} />
           <SocialLink href="https://x.com/ChayanKhetan" icon={<Twitter size={24} />} />
-          <SocialLink href="mailto:chayankhetan36@gmail.com" icon={<Mail size={24} />} />
+          <SocialLink href="mailto:chayankhetan1@gmail.com" icon={<Mail size={24} />} />
         </div>
 
         <button
