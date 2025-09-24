@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
               Portfolio
             </div>
             <p className="text-gray-400 text-sm">
-              Full Stack Developer & AI Enthusiast
+              Software Developer & AI Enthusiast
             </p>
           </div>
 
@@ -41,7 +41,7 @@ export const Footer: React.FC = () => {
               <Twitter size={20} />
             </a>
             <a
-              href="mailto:chayankhetan36@gmail.com"
+              href="mailto:chayankhetan1@gmail.com"
               className="text-gray-400 hover:text-cyan-400 transition-colors duration-300"
             >
               <Mail size={20} />
