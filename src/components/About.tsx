@@ -11,7 +11,7 @@ export const About: React.FC = () => {
     {
       icon: <Brain size={32} />,
       title: 'AI & Machine Learning',
-      description: 'Building intelligent applications with TensorFlow, PyTorch, and OpenAI APIs'
+      description: 'Building intelligent applications with TensorFlow, PyTorch, Agentic AI and LLM APIs'
     },
     {
       icon: <Zap size={32} />,
