@@ -4,36 +4,49 @@ import { Calendar, MapPin, Building } from 'lucide-react';
 export const Experience: React.FC = () => {
   const experiences = [
     {
-      title: 'Senior Full Stack Developer',
-      company: 'Tech Innovation Corp',
-      location: 'San Francisco, CA',
-      period: '2023 - Present',
-      type: 'Full-time',
-      description: [
-        'Led development of AI-powered web applications using React and Python',
-        'Implemented machine learning models for real-time data processing',
-        'Collaborated with cross-functional teams to deliver scalable solutions',
-        'Mentored junior developers and conducted code reviews'
-      ]
-    },
-    {
-      title: 'Full Stack Developer Intern',
-      company: 'StartupXYZ',
-      location: 'Remote',
-      period: '2022 - 2023',
+      title: 'Robotics Engineer',
+      company: 'AICTE IDEA Labs',
+      location: 'New Delhi, India',
+      period: 'June, 2024 - August, 2024',
       type: 'Internship',
       description: [
-        'Developed responsive web applications using React and Node.js',
-        'Integrated third-party APIs and payment systems',
-        'Optimized database queries and improved application performance',
-        'Participated in agile development processes and daily standups'
+        'Developed C++ algorithm for path planning and flight controller optimization in drones, improving efficiency by 14%',
+        'Implemented machine learning models for real-time data processing',
+        'Collaborated with cross-functional teams to deliver scalable solutions',
+        'Integrated sensors and tested navigation algorithms, enhancing drone stability and performance.'
       ]
     },
     {
-      title: 'Software Development Intern',
-      company: 'Digital Solutions Inc',
-      location: 'New York, NY',
-      period: '2021 - 2022',
+      title: 'Full Stack Developer',
+      company: 'Red Mist Technologies',
+      location: 'Remote',
+      period: 'September, 2024 - December, 2024',
+      type: 'Internship',
+      description: [
+        'Developed and enhanced frontend UI with ReactJS, and assisted in building a dashboard for users and application monitoring.',
+        'Integrated third-party APIs and payment systems',
+        'Optimized database queries and improved application performance',
+        'Participated in agile development processes and daily standups',
+        'Developed REST APIs for user management and role-based access using Node.js,Express and Managed data with PostgreSQL'
+      ]
+    },
+    {
+      title: 'Cybersecurity Intern',
+      company: 'Defence Research And Development Organisation',
+      location: 'New Delhi, India',
+      period: 'December, 2024 - Febrauary, 2025',
+      type: 'Internship',
+      description: [
+        ' Analyzed cybersecurity vulnerabilities: SQL Injection, XSS, Broken Access Control, Insecure Deserialization, CSRF, SSRF',
+        'Tested vulnerabilities using WebGoat and Kali Linux for robust security assessments.',
+        'Implemented mitigation strategies to strengthen application security.'
+      ]
+    },
+    {
+      title: 'Software Developer',
+      company: 'Institute Of System Design And Analysis',
+      location: 'New Delhi, India',
+      period: 'June, 2025 - August, 2025',
       type: 'Internship',
       description: [
         'Built mobile-responsive web interfaces using modern JavaScript frameworks',
